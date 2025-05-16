@@ -1,6 +1,45 @@
-# VariantAInalyser
-## Overview
+# 🧬 VariantAInalyser
+
 VariantAInalyser is a comprehensive platform that combines traditional bioinformatics with generative AI to streamline genomic variant analysis from VCF files. It eliminates the need to juggle multiple specialized tools by providing an all-in-one solution for variant analysis, interpretation, and reporting.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Key Features](#key-features)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Outputs](#outputs)
+- [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
+
+## Introduction
+
+**👩🏻‍🔬 The Challenge**
+
+Genomic variants are essential biomarkers for understanding diseases, drug responses, and creating personalised treatment plans. However, traditional analysis workflows force researchers to:
+
+- Switch between multiple disconnected tools (VCF parsers, annotation software, database interfaces)
+- Master different user interfaces and data formats
+- Manually integrate results across platforms
+- Spend valuable time on technical tasks rather than interpretation
+
+This fragmented approach creates inefficiencies, increases the potential for errors, and significantly extends analysis time.
+
+**💡The Solution: VariantAInalyser!**
+
+VariantAInalyser revolutionises genomic analysis by unifying the entire workflow in a single, intuitive interface. This integrated pipeline:
+
+- **Consolidates multiple tools into one platform**, eliminating the need to switch between systems
+- **Automates the complete workflow** from raw VCF data to clinical interpretation
+- **Requires minimal technical expertise** to operate effectively
+
+Researchers and clinicians can now:
+- Process VCF files to extract critical variant data
+- Run SegmentNT analysis to identify genomic regions
+- Query ClinVar for clinical significance
+- Generate comprehensive reports
+- Ask questions in natural language
+
+All without ever leaving the interface or needing to reformat data between tools!
 
 ## Key Features
 **Unified Analysis Pipeline**
@@ -61,6 +100,7 @@ Once you download the reference genome's fasta file, upload it to your Google Co
 6. Start analysing the variants through the interactive interface!
 
 🗒️ **Note**: Detailed example queries are included inside the notebook to ensure you get to experience all the features offered by the interface.
+
 A demo of the VariantAInalyser interface in use can also be found below:
 
 [![Demo VariantAInalyser🧬](https://img.youtube.com/vi/-E6cJ1pnuIQ/0.jpg)](https://www.youtube.com/watch?v=-E6cJ1pnuIQ)
