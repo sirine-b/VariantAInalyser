@@ -1,6 +1,6 @@
 # 🧬 VariantAInalyser
 
-VariantAInalyser is a comprehensive platform that combines traditional bioinformatics with generative AI to streamline genomic variant analysis from VCF files. It eliminates the need to juggle multiple specialized tools by providing an all-in-one solution for variant analysis, interpretation, and reporting.
+VariantAInalyser is a comprehensive platform that combines traditional bioinformatics with generative AI to streamline genomic variant analysis from VCF files. It eliminates the need to juggle multiple specialised tools by providing an all-in-one solution for variant analysis, interpretation, and reporting.
 
 ## Table of Contents
 - [Introduction](#introduction)
